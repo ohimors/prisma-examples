@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ohimors/prisma-examples is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
@@ -30,11 +31,13 @@ ohimors/prisma-examples is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ohimors/prisma-examples is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
@@ -63,14 +66,15 @@ ohimors/prisma-examples is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ohimors/prisma-examples](https://github.com/ohimors/prisma-examples)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|86<br/>Tools used|11/13/23 <br/>Report generated|
+|87<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -357,9 +361,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (55)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (56)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (55)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (56)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -389,6 +393,7 @@ Full tech stack [here](/techstack.md)
 |[babel-eslint](https://www.npmjs.com/babel-eslint)|v10.1.0|01/16/21|Renovate Bot |MIT|N/A|
 |[bcryptjs](https://www.npmjs.com/bcryptjs)|v2.4.3|01/17/20|Nikolas Burk |MIT|N/A|
 |[body-parser](https://www.npmjs.com/body-parser)|v1.19.0|07/06/20|Daniel Norman |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v4.1.0|07/14/20|renovate[bot] |MIT|N/A|
 |[class-validator](https://www.npmjs.com/class-validator)|v0.13.1|01/14/21|Renovate Bot |MIT|[CVE-2019-18413](https://github.com/advisories/GHSA-fj58-h2fr-3pp2) (Critical)|
 |[core-js](https://www.npmjs.com/core-js)|v3.8.3|01/19/21|Renovate Bot |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v7.0.3|12/11/20|Flavian DESVERNE |MIT|N/A|
@@ -422,4 +427,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
