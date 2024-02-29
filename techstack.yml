@@ -2,7 +2,7 @@ repo_name: ohimors/prisma-examples
 report_id: 52593d0aba70d250d5ff205ddfc955a2
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:47:43+00:00'
+timestamp: '2024-02-29T18:42:11+00:00'
 requested_by: renovate-bot
 provider: github
 branch: latest
@@ -100,7 +100,7 @@ tools:
   last_updated_by: Nikolas
   last_updated_on: 2020-11-16 13:55:10.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 10.0.0
   open_source: true
@@ -289,7 +289,7 @@ tools:
   last_updated_by: Nikolas Burk
   last_updated_on: 2020-01-27 15:01:52.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.2.1
   license: MIT
@@ -303,7 +303,7 @@ tools:
   last_updated_by: Renovate Bot
   last_updated_on: 2020-11-28 01:32:22.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.1.3
   license: MIT
